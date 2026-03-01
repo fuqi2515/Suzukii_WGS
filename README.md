@@ -59,5 +59,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 4.Inversion  
 ---
+(1) 1_vcf2bcf.sh: script to convert vcf to bcf.  
 
+(2) 
 
