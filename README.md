@@ -11,5 +11,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (4) 5_GATK_BQSR.sh:  scripts to perform Base Quality Score Recalibration (BQSR) using GATK’s BaseRecalibrator and ApplyBQSR commands.  
 
-(5) 6_GATK_second_gvcf.sh, 7_GATK_second_calling.sh: scripts to perform secondary variant calling and filtering.
+(5) 6_GATK_second_gvcf.sh, 7_GATK_second_calling.sh: scripts to perform secondary variant calling and filtering.  
+
+(6) 8_variant_filter.sh: script to performe multiple filtering steps to get high-quality variants for downstream analysis.
 
