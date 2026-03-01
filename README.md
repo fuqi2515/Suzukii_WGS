@@ -27,5 +27,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (4) 4_pophelper.R: script to plot ancestor components.  
 
-(5) 
+(5) 5_iqtree.sh: script to perform iqtree analysis.  
+
+(6) 
 
