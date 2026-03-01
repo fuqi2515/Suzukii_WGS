@@ -33,5 +33,9 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (7) 7_LDdecay.sh: script to perform LD decay analysis.  
 
-(8) 
+(8) 8_IBD.R: script to perform IBD analysis.  
+
+3.Local adaptation  
+---
+(1) 
 
