@@ -19,5 +19,13 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 2.Population_genetics  
 ---
-(1) 
+(1) 1_pca_structure.sh: script to perform SNP filter and Admixture analysis.  
+
+(2) 2_pca.R: script to plot PCA.  
+
+(3) 3_CV_plot.R: script to plot cross-validation (CV) error plot.  
+
+(4) 4_pophelper.R: script to plot ancestor components.  
+
+(5) 
 
