@@ -51,6 +51,6 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (7) 7_LLRS.R: script to extract top 0.1% candidate SNPs for each population.  
 
-(8) 
+(8) 8_search_candidate_genes.sh: script to get positive selected candidate genes and orthologous genes.
 
 
