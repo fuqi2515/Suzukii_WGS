@@ -41,6 +41,8 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (2) 2_get_neutral_snps.sh: script to extract neutral snps located in fourfold degenerate sites and short introns (8-30 bp within introns < 65bp).  
 
-(3) 
+(3) 3_neutral_snp_prune.sh: script to filter neutral snps for population structure analysis.  
+
+(4) 
 
 
