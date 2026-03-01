@@ -45,6 +45,8 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (4) 4_vcf2dgm.sh: script to convert vcf to dgm format.  
 
-(5) 
+(5) 5_Ohana_population_structure.sh: script to use Ohana to perform ancestry components analysis.  
+
+(6) 
 
 
