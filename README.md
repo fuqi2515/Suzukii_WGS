@@ -15,5 +15,9 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (6) 8_variant_filter.sh: script to performe multiple filtering steps to get high-quality variants for downstream analysis.  
 
-(7) 9_SNP_annotation.sh: script to perform snp annotation using SnpEff.
+(7) 9_SNP_annotation.sh: script to perform snp annotation using SnpEff.  
+
+2.Population_genetics  
+---
+(1) 
 
