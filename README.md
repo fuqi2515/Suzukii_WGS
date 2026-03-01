@@ -29,5 +29,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (5) 5_iqtree.sh: script to perform iqtree analysis.  
 
-(6) 
+(6) 6_pi_Watterson_estimator_Fst.sh: script to calculate Nucleotide diversity (π), Watterson estimator (θw), and inter-population genetic differentiation (Fst).  
+
+(7) 
 
