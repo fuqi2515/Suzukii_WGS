@@ -37,6 +37,10 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 3.Local_adaptation  
 ---
-(1) 1_variant_filter_three_major_pops.sh: Script to perform a series of filtering steps to extract high-quality genetic variants across three major populations (CN, WUS, and EUS) for downstream analysis.  
+(1) 1_variant_filter_three_major_pops.sh: script to perform a series of filtering steps to extract high-quality genetic variants across three major populations (CN, WUS, and EUS) for downstream analysis.  
+
+(2) 2_get_neutral_snps.sh: script to extract neutral snps located in fourfold degenerate sites and short introns (8-30 bp within introns < 65bp).  
+
+(3) 
 
 
