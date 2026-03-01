@@ -47,6 +47,10 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (5) 5_Ohana_population_structure.sh: script to use Ohana to perform ancestry components analysis.  
 
-(6) 6_Ohana_selection_scan.sh: script to perform population-specific outlier scans following the Ohana protocol (https://github.com/jade-cheng/ohana/wiki/Population-or-ancestry-specific-selection-scan). 
+(6) 6_Ohana_selection_scan.sh: script to perform population-specific outlier scans following the Ohana protocol (https://github.com/jade-cheng/ohana/wiki/Population-or-ancestry-specific-selection-scan).  
+
+(7) 7_LLRS.R: script to extract top 0.1% candidate SNPs for each population.  
+
+(8) 
 
 
