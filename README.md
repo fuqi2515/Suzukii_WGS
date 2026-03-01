@@ -43,6 +43,8 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (3) 3_neutral_snp_prune.sh: script to filter neutral snps for population structure analysis.  
 
-(4) 
+(4) 4_vcf2dgm.sh: script to convert vcf to dgm format.  
+
+(5) 
 
 
