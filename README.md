@@ -55,6 +55,9 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (9) 9_PBE.sh: script to calculate PBE.  
 
-(10) 
+(10) 10_Gowinda.sh: script to use Gowinda to perform GO enrichment.  
+
+4.Inversion  
+---
 
 
