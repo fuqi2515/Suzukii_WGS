@@ -1,4 +1,8 @@
 #Author:QiFu
+#This script is based on code from https://github.com/Sfeng666/Dsuz_popgen_GEA, modified by QiFu to suit the current analysis pipeline.
+#please cite below paper if you use this code.
+Feng S., DeGrey S. P., Guédot C., Schoville S. D., Pool J. E. Genomic Diversity Illuminates the Environmental Adaptation of Drosophila suzukii. Genome Biology and Evolution 16, evae195 (2024).
+
 ## set your working directory and load the required packages
 library(raster)
 library(rgdal)
@@ -181,3 +185,4 @@ write.table(env.pop, file = paste(path_data, '/', 'suzukii_coord_environmental_v
             row.names = F, quote = F)
 write.csv(env.pop,file = paste(path_data, '/', 'suzukii_coord_environmental_variables.csv', sep = ''),
           row.names = F)
+
