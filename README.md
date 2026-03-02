@@ -91,5 +91,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 ---  
 (1) 1_Treemix.sh: script to perform Treemix analysis.  
 
-(2) 
+(2) 2_OptM.R: script to determine a appropriate block size and the optical number of m.  
+
+(3) 
 
