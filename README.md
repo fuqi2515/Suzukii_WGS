@@ -89,5 +89,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 6.Admixture_inference 
 ---  
-(1) 
+(1) 1_Treemix.sh: script to perform Treemix analysis.  
+
+(2) 
 
