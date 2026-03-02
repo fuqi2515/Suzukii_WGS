@@ -79,5 +79,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (5) 5_GF.R: script to perform gradientForest analysis.  
 
-(6) 
+(6) 6_LFMM.sh: script to perform LFMM analysis.  
+
+(7)
 
