@@ -85,5 +85,9 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (8) 8_baypass.sh: script to perform baypass analysis.  
 
-(9)
+(9) 9_pod.R: script to simulate pseudo-observed data (POD) to calculate a significance threshold.  
+
+6.Admixture_inference 
+---  
+(1) 
 
