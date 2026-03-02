@@ -63,5 +63,11 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (2) 2_local_pca.R: script to perform local PCA analysis.  
 
-(3)
+(3) 3_LD.sh: script to calculated LD and get the second largest r2 value for each pair of blocks.  
+
+(4) 4_LD_heatmap.R: script to plot LD heatmap.  
+
+5.GEA  
+---  
+(1) 
 
