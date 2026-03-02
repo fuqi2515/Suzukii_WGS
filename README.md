@@ -81,5 +81,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (6) 6_LFMM.sh: script to perform LFMM analysis.  
 
-(7)
+(7) 7_RDA.R: script to perform RDA analysis.  
+
+(8) 
 
