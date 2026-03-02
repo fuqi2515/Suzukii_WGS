@@ -107,5 +107,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (3) 2_Stairwayplot/2_China_fold.blueprint, 2_China_fold.blueprint.sh and 2_China_fold.blueprint.plot.sh: scripts to perform Stairway Plot analysis for Chinese population.  
 
-(4) 
+(4) 3_dadi/1_dadi_1D.sh: script to perform dadi 1D analysis.  
+
+(5) 
 
