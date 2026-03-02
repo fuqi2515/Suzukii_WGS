@@ -69,5 +69,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 5.GEA  
 ---  
-(1) 
+(1) 1_extract_environment_data.R: script to extract 27 environmental and geographic variables for each sampling location.  
+
+(2) 
 
