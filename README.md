@@ -73,5 +73,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (2) 2_correlation_environmental_variables.R: script to calculate pairwise correlations among the variables.  
 
-(3)
+(3) 3_snp_filter.sh: script to perform snp filtering for GEA analysis.  
+
+(4) 
 
