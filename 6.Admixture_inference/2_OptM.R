@@ -86,4 +86,5 @@ get_f = function(stem){
   
 }
 
-get_f("core.noN.0.3")
+get_f("core.noN.1.8")
+
