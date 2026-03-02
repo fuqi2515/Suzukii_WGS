@@ -93,5 +93,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (2) 2_OptM.R: script to determine a appropriate block size and the optical number of m.  
 
-(3) 
+(3) 3_stat_f2.R: script to calculate f2 statistics.  
+
+(4) 
 
