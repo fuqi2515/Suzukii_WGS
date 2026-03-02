@@ -71,5 +71,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 ---  
 (1) 1_extract_environment_data.R: script to extract 27 environmental and geographic variables for each sampling location.  
 
-(2) 
+(2) 2_correlation_environmental_variables.R: script to calculate pairwise correlations among the variables.  
+
+(3)
 
