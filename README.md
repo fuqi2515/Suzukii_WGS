@@ -83,5 +83,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (7) 7_RDA.R: script to perform RDA analysis.  
 
-(8) 
+(8) 8_baypass.sh: script to perform baypass analysis.  
+
+(9)
 
