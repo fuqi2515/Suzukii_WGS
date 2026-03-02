@@ -61,5 +61,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 ---
 (1) 1_vcf2bcf.sh: script to convert vcf to bcf.  
 
-(2) 
+(2) 2_local_pca.R: script to perform local PCA analysis.  
+
+(3)
 
