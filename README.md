@@ -75,5 +75,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (3) 3_snp_filter.sh: script to perform snp filtering for GEA analysis.  
 
-(4) 
+(4) 4_snp_imputation.R: script to perform snp imputation.  
+
+(5) 
 
