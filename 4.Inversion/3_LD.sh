@@ -24,7 +24,7 @@ vcftools --gzvcf ALT_filter_NW_023496800.1_native_maf_thin100.vcf.gz --geno-r2 -
 perl extract_snp_position_from_vcf.pl ALT_filter_NW_023496800.1_native_maf_thin100.vcf.gz snp_position_in_vcf.txt
 
 #step4: split snps into blocks
-perl split_snp_postion_into_block.pl snp_position_in_vcf.txt 25500000 500000
+perl split_snp_position_into_block.pl snp_position_in_vcf.txt 25500000 500000
 
 #step5: get block postion
 perl window_position.pl /dir/blocks/  #directory including block files generated in step4
