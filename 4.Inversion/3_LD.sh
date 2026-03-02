@@ -33,6 +33,6 @@ perl window_position.pl /dir/blocks/  #directory including block files generated
 perl extract_the_second_largest_R2_values_for_between_window.pl chr_maf_NW_023496800.1_thin100_windows.ld.gz win_0_bp.txt win_500000_bp.txt win_0_win_500000.txt #repeat this step for each pair of blocks
 
 #step7: 
-perl make_LD_input_between_window_new.pl /dir/ld_between_block NW_023496800 25500000 500000 all_sample_NW_023496800_top.txt #/dir/ld_between_block including all files generated in step6 
+perl make_LD_input_between_window.pl /dir/ld_between_block NW_023496800 25500000 500000 all_sample_NW_023496800_top.txt #/dir/ld_between_block including all files generated in step6 
 
 date
