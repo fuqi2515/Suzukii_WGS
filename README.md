@@ -101,5 +101,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 7.Demographic_history_inference 
 ---  
-(1) 
+(1) 1_random_select_one_allele_projection.sh: script to randomly select one allele and perform projection to maximizes the number of segregating SNPs.  
+
+(2) 
 
