@@ -95,5 +95,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (3) 3_stat_f2.R: script to calculate f2 statistics.  
 
-(4) 
+(4) 4_admixturetools.sh: script to perform admixture graph analysis.  
+
+(5) 
 
