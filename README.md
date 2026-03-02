@@ -101,9 +101,11 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 7.Demographic_history_inference 
 ---  
-(1) 1_random_select_one_allele_projection.sh: script to randomly select one allele and perform projection to maximizes the number of segregating SNPs.  
+(1) 1_GONE/1_gone.sh: script to perform GONE analysis for Chinese population.
 
-(2) 2_China_fold.blueprint, 2_China_fold.blueprint.sh and 2_China_fold.blueprint.plot.sh: scripts to perform Stairway Plot analysis for Chinese population.  
+(2) 2_Stairwayplot/1_random_select_one_allele_projection.sh: script to randomly select one allele and perform projection to maximizes the number of segregating SNPs.  
 
-(3) 
+(3) 2_Stairwayplot/2_China_fold.blueprint, 2_China_fold.blueprint.sh and 2_China_fold.blueprint.plot.sh: scripts to perform Stairway Plot analysis for Chinese population.  
+
+(4) 
 
