@@ -77,5 +77,7 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (4) 4_snp_imputation.R: script to perform snp imputation.  
 
-(5) 
+(5) 5_GF.R: script to perform gradientForest analysis.  
+
+(6) 
 
