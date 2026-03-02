@@ -1,5 +1,8 @@
 ## Produce POD samples
 ## Kaichi Huang 2019 Sep
+#This script is based on code from https://github.com/hkchi/LoStruct_RAD, modified by QiFu to suit the current analysis pipeline.
+#please cite below paper if you use this code.
+Huang K., Andrew R. L., Owens G. L., Ostevik K. L., Rieseberg L. H. Multiple chromosomal inversions contribute to adaptive divergence of a dune sunflower ecotype. Molecular Ecology 29, 2535-2549 (2020).
 
 #install.packages("mvtnorm")
 source("/baypass_public-master/utils/baypass_utils.R")
