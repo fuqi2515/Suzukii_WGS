@@ -109,5 +109,8 @@ Scripts for Fu et al (2026) Genomic insights into evolutionary history and local
 
 (4) 3_dadi/1_dadi_1D.sh: script to perform dadi 1D analysis.  
 
-(5) 
+(5) 3_dadi/2_dadi_2D.sh: script to perform dadi 2D analysis.  
 
+(6) 3_dadi/2_dadi_3D.sh: script to perform dadi 3D analysis.
+
+(7) 
