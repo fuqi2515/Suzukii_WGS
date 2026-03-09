@@ -1,5 +1,5 @@
 # Suzukii_WGS
-Scripts for Fu et al (2026) Genomic insights into evolutionary history and local adaptation of the invasive pest Drosophila suzukii
+Scripts for Fu et al (2026) Unlocking the native range: genomic diversity, adaptation and invasion history of the global pest Drosophila suzukii
 
 1.Variant-calling  
 ---
