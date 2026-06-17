@@ -111,8 +111,6 @@ Scripts for Fu et al (2026) Unlocking the native range: genomic diversity, adapt
 
 (5) 3_dadi/2_dadi_2D.sh: script to perform dadi 2D analysis.  
 
-(6) 3_dadi/2_dadi_3D.sh: script to perform dadi 3D analysis.
-
 8.ONT_files 
 ---  
 (1) reads_paf_linkview_batch_plot.sh: script to retrieve mapping coordinates for specified read IDs from a PAF alignment file, prepare edited TSV and karyotype input files, and generate collinearity plots using LINKVIEW2.
