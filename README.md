@@ -112,3 +112,11 @@ Scripts for Fu et al (2026) Unlocking the native range: genomic diversity, adapt
 (5) 3_dadi/2_dadi_2D.sh: script to perform dadi 2D analysis.  
 
 (6) 3_dadi/2_dadi_3D.sh: script to perform dadi 3D analysis.
+
+8.ONT_files 
+---  
+(1) reads_paf_linkview_batch_plot.sh: script to retrieve mapping coordinates for specified read IDs from a PAF alignment file, prepare edited TSV and karyotype input files, and generate collinearity plots using LINKVIEW2.
+
+(2) YN7ONT_2NW800.asm.bp.p_ctg.longest2contigs.fasta.gz: FASTA file containing the two longest primary contigs from the HiFiasm assembly generated with ONT reads mapped to the reference contig NW_023496800.1.
+
+(3) NW_023496800.1_reads.paf.gz: A tab-delimited PAF (Pairwise mapping Format) alignment file containing ONT reads mapped to the reference contig NW_023496800.1. Each record contains the 12 standard PAF fields, including query/read coordinates, target/reference coordinates, strand, number of matching bases, alignment block length, and mapping quality, followed by optional SAM-like tags in TAG:TYPE:VALUE format.
